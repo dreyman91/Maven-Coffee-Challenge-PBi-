@@ -9,12 +9,13 @@ Pricing strategy: How can we align prices with customer value perception?
 
 Insights:
 Enabling the Gender,Employment Status, Ethnicity, Educational Level and Political Affiliation, we were able to extensively understand the hows and whys participants made their choices while participating the survey. The Survey gave us an insight on what particpants want, why they want it, how they want it and where they prefer to have it.
-<img width="1255" alt="Screenshot 2024-03-19 001056" src="https://github.com/dreyman91/Power-BI-Portfolio/assets/96593750/d6b1ee17-1ccf-4bd5-8135-913d23ddde1c">
+<img width="1254" alt="Screenshot 2024-03-19 001011" src="https://github.com/dreyman91/Power-BI-Portfolio/assets/96593750/ceb0b28c-7c94-46a5-9d67-43fa2d45c8d2">
 
 Objectives:
 
-<img width="1256" alt="Screenshot 2024-03-19 001117" src="https://github.com/dreyman91/Power-BI-Portfolio/assets/96593750/779ac67d-c9cb-4180-bd5a-a5fbb94a6ef3">
+
 Target Audience:
+<img width="1255" alt="Screenshot 2024-03-19 001056" src="https://github.com/dreyman91/Power-BI-Portfolio/assets/96593750/d6b1ee17-1ccf-4bd5-8135-913d23ddde1c">
 To properly understand who our audience should be, or the most fitting audiences for each Coffee Choice, card visuals were created to visualize only the top category in each identity.  it was discovered that
 Coffee D is the most preferred choice with a 35% share of all submissions, 
  76% of the participants who chose Coffee D have a knowledge of the place the Coffee originates from,
@@ -23,7 +24,8 @@ Coffee D is the most preferred choice with a 35% share of all submissions,
  
 
 Product Offering : 
-<img width="1258" alt="Screenshot 2024-03-19 001130" src="https://github.com/dreyman91/Power-BI-Portfolio/assets/96593750/13f8a95e-3936-4c10-a579-ae3fcc7a72d1">
+
+<img width="1256" alt="Screenshot 2024-03-19 001117" src="https://github.com/dreyman91/Power-BI-Portfolio/assets/96593750/779ac67d-c9cb-4180-bd5a-a5fbb94a6ef3">
 Here, we also discovered that in the top Coffee Choice, D, consumers with ,
 46% preferred their Coffee Somewhat Strong
 66% preferred a Light Roast level
