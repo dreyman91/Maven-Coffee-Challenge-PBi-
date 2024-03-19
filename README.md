@@ -13,13 +13,17 @@ Enabling the Gender,Employment Status, Ethnicity, Educational Level and Politica
 
 Objectives:
 
+<img width="1256" alt="Screenshot 2024-03-19 001117" src="https://github.com/dreyman91/Power-BI-Portfolio/assets/96593750/779ac67d-c9cb-4180-bd5a-a5fbb94a6ef3">
 Target Audience:
 To properly understand who our audience should be, or the most fitting audiences for each Coffee Choice, card visuals were created to visualize only the top category in each identity.  it was discovered that
 Coffee D is the most preferred choice with a 35% share of all submissions, 
  76% of the participants who chose Coffee D have a knowledge of the place the Coffee originates from,
- It is mostly cosumed by 25-34 years  old age range.       
+ It is mostly cosumed by 25-34 years  old age range.   
+
+ 
 
 Product Offering : 
+<img width="1258" alt="Screenshot 2024-03-19 001130" src="https://github.com/dreyman91/Power-BI-Portfolio/assets/96593750/13f8a95e-3936-4c10-a579-ae3fcc7a72d1">
 Here, we also discovered that in the top Coffee Choice, D, consumers with ,
 46% preferred their Coffee Somewhat Strong
 66% preferred a Light Roast level
@@ -27,6 +31,8 @@ Here, we also discovered that in the top Coffee Choice, D, consumers with ,
 13% add Whole Milk as the dairy to their Coffee   
 
 Pricing:
+<img width="1258" alt="Screenshot 2024-03-19 001130" src="https://github.com/dreyman91/Power-BI-Portfolio/assets/96593750/c3723599-8988-4e78-8782-4622ade677e4">
+
 From the pricing Analysis, Coffee B had most interesting majority of 26% Consumers who are willing to pay $8 -$10 for a cup of Coffee compared to the 22% of Coffee D consumers. But also, we were able to discover that 21% of Coffee D consumers were willing to spend more than $20 on a  cup of coffee.
 
 Conclusion:
