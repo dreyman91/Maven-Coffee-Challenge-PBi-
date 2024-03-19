@@ -9,6 +9,7 @@ Pricing strategy: How can we align prices with customer value perception?
 
 Insights:
 Enabling the Gender,Employment Status, Ethnicity, Educational Level and Political Affiliation, we were able to extensively understand the hows and whys participants made their choices while participating the survey. The Survey gave us an insight on what particpants want, why they want it, how they want it and where they prefer to have it.
+<img width="1255" alt="Screenshot 2024-03-19 001056" src="https://github.com/dreyman91/Power-BI-Portfolio/assets/96593750/d6b1ee17-1ccf-4bd5-8135-913d23ddde1c">
 
 Objectives:
 
